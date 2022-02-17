@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\foxyb\Documents\GitHub\GitHub_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\foxyb\Documents\GitHub\GitHub_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\foxyb\Documents\GitHub\GitHub_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\foxyb\Documents\GitHub\GitHub_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1344760456">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="876432902" Name="AUX_ENVI" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\MasterAudio\AUX_ENVI"/>
+				<AuxBus Id="3675088850" Name="AUX_2D" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\MasterAudio\AUX_2D"/>
+				<AuxBus Id="3691866413" Name="AUX_3D" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\MasterAudio\AUX_3D"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="1744429087" Language="SFX" Hash="1504294440">
+			<ObjectPath>\SoundBanks\Default Work Unit\Bank</ObjectPath>
+			<ShortName>Bank</ShortName>
+			<Path>Bank.bnk</Path>
+			<IncludedMemoryFiles>
+				<File Id="902445068" Language="SFX">
+					<ShortName>Test_Beep.wav</ShortName>
+					<Path>SFX\Test_Beep_93B6F767.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

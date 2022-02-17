@@ -1,0 +1,13 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	2938085603	MasterAudio			\Default Work Unit\Master Audio Bus\MasterAudio	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	876432902	AUX_ENVI			\Default Work Unit\Master Audio Bus\MasterAudio\AUX_ENVI	
+	3675088850	AUX_2D			\Default Work Unit\Master Audio Bus\MasterAudio\AUX_2D	
+	3691866413	AUX_3D			\Default Work Unit\Master Audio Bus\MasterAudio\AUX_3D	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

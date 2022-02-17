@@ -1,0 +1,3 @@
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	902445068	Test_Beep	C:\Users\foxyb\Documents\GitHub\GitHub_WwiseProject\.cache\Windows\SFX\Test_Beep_93B6F767.wem		\Actor-Mixer Hierarchy\Default Work Unit\Audio\Environment\Test_Beep		151897
+
