@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AF79A8BB-BFCD-45E4-A05A-7A0A7432B583}" SchemaVersion="103">
+	<Conversions>
+		<WorkUnit Name="Default Work Unit" ID="{AF79A8BB-BFCD-45E4-A05A-7A0A7432B583}" PersistMode="Standalone">
+			<ChildrenList>
+				<Conversion Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}">
+					<PropertyList>
+						<Property Name="Channels" Type="int32">
+							<ValueList>
+								<Value Platform="Windows">4</Value>
+								<Value Platform="Mac">4</Value>
+							</ValueList>
+						</Property>
+						<Property Name="LRMix" Type="Real64">
+							<ValueList>
+								<Value Platform="Windows">0</Value>
+								<Value Platform="Mac">0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="MaxSampleRate" Type="int32">
+							<ValueList>
+								<Value Platform="Windows">24000</Value>
+								<Value Platform="Mac">0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="MinSampleRate" Type="int32">
+							<ValueList>
+								<Value Platform="Windows">0</Value>
+								<Value Platform="Mac">0</Value>
+							</ValueList>
+						</Property>
+						<Property Name="SampleRate" Type="int32">
+							<ValueList>
+								<Value Platform="Windows">2</Value>
+								<Value Platform="Mac">2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ConversionPluginInfoList>
+						<ConversionPluginInfo Platform="Windows">
+							<ConversionPlugin Name="" ID="{80CBDEAA-084C-46AD-9AFB-E4F825DF8E9C}" PluginName="Vorbis" CompanyID="0" PluginID="4">
+								<PropertyList>
+									<Property Name="QualityFactor" Type="Real32" Value="6"/>
+								</PropertyList>
+							</ConversionPlugin>
+						</ConversionPluginInfo>
+						<ConversionPluginInfo Platform="Mac">
+							<ConversionPlugin Name="" ID="{DE77BDB5-0BCF-4F3B-91CC-5781BE1CB94D}" PluginName="PCM" CompanyID="0" PluginID="1"/>
+						</ConversionPluginInfo>
+					</ConversionPluginInfoList>
+				</Conversion>
+			</ChildrenList>
+		</WorkUnit>
+	</Conversions>
+</WwiseDocument>
