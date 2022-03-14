@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{7605F237-415B-ECA8-B01A-409C09EE2065}",
+	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -8,6 +8,10 @@
 			"Name": "BlockoutToolsPlugin",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
+		},
+		{
+			"Name": "Wwise",
+			"Enabled": false
 		}
 	]
 }
