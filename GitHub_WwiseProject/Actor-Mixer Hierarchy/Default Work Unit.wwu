@@ -1315,6 +1315,7 @@
 											</ChildrenList>
 											<ObjectLists/>
 										</RandomSequenceContainer>
+										<Folder Name="Test_Deleteme" ID="{444C0302-ABC9-43E0-8F50-8860945F549B}" ShortID="770286418"/>
 									</ChildrenList>
 									<ObjectLists/>
 								</ActorMixer>
